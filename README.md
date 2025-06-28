@@ -332,13 +332,6 @@ EXPOSE 3000
 CMD ["npm", "start"]
 ```
 
-## 📈 Performance
-
-- **Response Time**: < 100ms for most operations
-- **Throughput**: 1000+ requests per second
-- **Memory Usage**: < 50MB for typical usage
-- **CPU Usage**: < 10% under normal load
-
 ## 🤝 Contributing
 
 1. Fork the repository
