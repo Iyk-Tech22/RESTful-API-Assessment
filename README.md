@@ -351,13 +351,6 @@ CMD ["npm", "start"]
 
 This project is licensed under the MIT License.
 
-## 🆘 Support
-
-For support and questions:
-
-- Create an issue in the repository
-- Email: support@example.com
-
 ## 📚 Additional Resources
 
 - [REST API Design Best Practices](https://restfulapi.net/)
